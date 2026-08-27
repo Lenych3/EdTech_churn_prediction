@@ -1,0 +1,19 @@
+# База пересоздаётся ноутбуком 01
+data/*.db
+data/*.sqlite
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# ОС и редакторы
+.DS_Store
+.idea/
+.vscode/
